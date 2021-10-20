@@ -1,0 +1,6 @@
+[Android_serkanEmulator INFO ] 2021-10-13 08:04:51.108 ServerManager:19 -  *** starting appium server... 
+[Android_serkanEmulator INFO ] 2021-10-13 08:04:58.765 ServerManager:29 -  *** Appium server started! *** 
+[Android_serkanEmulator INFO ] 2021-10-13 08:04:58.815 DriverManager:29 -  *** initializing Appium driver... 
+[Android_serkanEmulator INFO ] 2021-10-13 08:04:58.863 CapabilitiesManager:17 - getting capabilities
+[Android_serkanEmulator INFO ] 2021-10-13 08:04:58.869 CapabilitiesManager:33 - appUrl isC:\Users\Naim\Desktop\IT\Projeler IntelliJ\wikiCucumber2\src\test\resources\apps\org.wikipedia.apk
+[Android_serkanEmulator INFO ] 2021-10-13 08:05:17.439 DriverManager:41 -  *** Driver is initialized

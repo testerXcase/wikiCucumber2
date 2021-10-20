@@ -1,0 +1,9 @@
+com\qa\pages\ContentPage.class
+com\qa\pages\BasePage.class
+com\qa\stepDefs\Hooks.class
+com\qa\pages\BasePage$2.class
+com\qa\stepDefs\SearchStepDef.class
+com\qa\runners\TestRunner.class
+com\qa\pages\SearchPage.class
+com\qa\pages\LanguagesPage.class
+com\qa\pages\BasePage$1.class
